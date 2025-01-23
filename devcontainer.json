@@ -1,0 +1,16 @@
+{
+    "name": "Java Development",
+    "image": "mcr.microsoft.com/vscode/devcontainers/java:23",
+    "extensions": [
+      "vscjava.vscode-java-pack",
+      "redhat.java",
+      "pivotal.vscode-spring-boot"
+    ],
+    "settings": {
+      "java.home": "/usr/lib/jvm/java-23-openjdk-amd64/bin/java"
+    },
+    "runArgs": [
+      "--user", "devuser"
+    ]
+  }
+  

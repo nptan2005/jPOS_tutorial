@@ -16,9 +16,9 @@ dependencies {
     implementation 'org.jpos:jpos:3.0.0'
 }
 
-dependencies {
-    implementation files('build/libs/tutorial-3.0.0-SNAPSHOT.jar')
-}
+// dependencies {
+//     implementation files('build/libs/tutorial-3.0.0-SNAPSHOT.jar')
+// }
 
 
 
