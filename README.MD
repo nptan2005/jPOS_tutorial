@@ -1,3 +1,15 @@
+## Giấy phép
+
+Dự án này sử dụng thư viện jPOS, được phân phối theo giấy phép **GNU Affero General Public License version 3** (AGPL-3.0).
+
+Bạn có thể tham khảo giấy phép đầy đủ của jPOS tại [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).
+
+Nếu bạn phân phối mã nguồn của dự án này hoặc sử dụng dịch vụ mà mã nguồn thay đổi, bạn phải cung cấp mã nguồn theo giấy phép AGPL-3.0.
+
+
+
+*** Note, run
+
 "D:\WorkSpace\Java\gradle-8.12\bin\gradle" wrapper
 
 $env:PATH += ";D:\WorkSpace\Java\gradle-8.12\bin"
