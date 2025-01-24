@@ -16,3 +16,6 @@ dependencies {
     implementation 'org.jpos:jpos:3.0.0'
 }
 
+dependencies {
+    implementation files('./build/libs/jPOS_tutorial-3.0.0-SNAPSHOT.jar')
+}
