@@ -7,6 +7,11 @@ gradle -v
 
 https://github.com/jpos/jPOS.git
 
+
+sdk install java 23-amzn
+sdk list java
+sdk use java 23-amzn
+sdk use java 23-amzn
 ----
 install JAVA
 sudo apt update
