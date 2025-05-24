@@ -53,5 +53,25 @@ bin/q2 -Epro
 gradle installApp && bin/q2
 
 
+# 📦 jPOS Tutorial
+
+Dự án hướng dẫn và thực hành sử dụng **jPOS** để xử lý giao thức **ISO 8583** trong Java.
+
+## 🎯 Mục tiêu
+- Làm quen với jPOS và cách tạo `packager.xml`
+- Phân tích cấu trúc các message ISO 8583
+- Thực hành format, encode, decode và truyền nhận message qua socket
+
+## 🛠 Yêu cầu
+- Java 8+
+- Maven
+
+## ▶️ Cách chạy
+
+```bash
+mvn clean install
+java -jar target/jpos-tutorial-1.0-SNAPSHOT.jar
+
+
 
 
